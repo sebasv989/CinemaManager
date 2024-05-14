@@ -1,0 +1,226 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager/*
+!/Cinema Room Manager/task/
+/Cinema Room Manager/task/*
+!/Cinema Room Manager/task/src
+
+# Project exclude paths
+/Topics/Array exceptions/Calculate Square/out/
+/Topics/Array exceptions/Calculate Square/out/production/classes/
+/Topics/Array exceptions/Determine an exception/out/
+/Topics/Array exceptions/Determine an exception/out/production/classes/
+/Topics/Array exceptions/Explore the standard class library/out/
+/Topics/Array exceptions/Explore the standard class library/out/production/classes/
+/Topics/Array exceptions/Name an exception/out/
+/Topics/Array exceptions/Name an exception/out/production/classes/
+/Topics/Array exceptions/No exceptions/out/
+/Topics/Array exceptions/No exceptions/out/production/classes/
+/Topics/Array exceptions/Out of bounds/out/
+/Topics/Array exceptions/Out of bounds/out/production/classes/
+/Topics/Array exceptions/Statements/out/
+/Topics/Array exceptions/Statements/out/production/classes/
+/Topics/Array exceptions/Theory/out/
+/Topics/Array exceptions/Theory/out/production/classes/
+/Topics/Array exceptions/Where an exception occurs/out/
+/Topics/Array exceptions/Where an exception occurs/out/production/classes/
+/Topics/Arrays as parameters/Adding values/out/
+/Topics/Arrays as parameters/Adding values/out/production/classes/
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Arrays as parameters/Completing a method to print array elements/out/
+/Topics/Arrays as parameters/Completing a method to print array elements/out/production/classes/
+/Topics/Arrays as parameters/Completing code to print an integer array/out/
+/Topics/Arrays as parameters/Completing code to print an integer array/out/production/classes/
+/Topics/Arrays as parameters/Filling the blanks to print array elements in a method/out/
+/Topics/Arrays as parameters/Filling the blanks to print array elements in a method/out/production/classes/
+/Topics/Arrays as parameters/How to invoke the method/out/
+/Topics/Arrays as parameters/How to invoke the method/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Arrays as parameters/Statements/out/
+/Topics/Arrays as parameters/Statements/out/production/classes/
+/Topics/Arrays as parameters/The declaration of the sumAll method/out/
+/Topics/Arrays as parameters/The declaration of the sumAll method/out/production/classes/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Arrays as parameters/Theory/out/production/classes/
+/Topics/Arrays as parameters/Varargs/out/
+/Topics/Arrays as parameters/Varargs/out/production/classes/
+/Topics/Arrays as parameters/Varargs method invocation/out/
+/Topics/Arrays as parameters/Varargs method invocation/out/production/classes/
+/Topics/Declaring methods/Calculating factorials/out/
+/Topics/Declaring methods/Calculating factorials/out/production/classes/
+/Topics/Declaring methods/Choose a return type/out/
+/Topics/Declaring methods/Choose a return type/out/production/classes/
+/Topics/Declaring methods/Finalizing a greeting message function/out/
+/Topics/Declaring methods/Finalizing a greeting message function/out/production/classes/
+/Topics/Declaring methods/Find the max of three numbers/out/
+/Topics/Declaring methods/Find the max of three numbers/out/production/classes/
+/Topics/Declaring methods/Fixing the 'findEvenOrOdd' method logic/out/
+/Topics/Declaring methods/Fixing the 'findEvenOrOdd' method logic/out/production/classes/
+/Topics/Declaring methods/Method signature/out/
+/Topics/Declaring methods/Method signature/out/production/classes/
+/Topics/Declaring methods/Raise to the power/out/
+/Topics/Declaring methods/Raise to the power/out/production/classes/
+/Topics/Declaring methods/Sum of numbers in the range/out/
+/Topics/Declaring methods/Sum of numbers in the range/out/production/classes/
+/Topics/Declaring methods/Syntactically correct declarations/out/
+/Topics/Declaring methods/Syntactically correct declarations/out/production/classes/
+/Topics/Declaring methods/The elements of a method/out/
+/Topics/Declaring methods/The elements of a method/out/production/classes/
+/Topics/Declaring methods/The sign of a number/out/
+/Topics/Declaring methods/The sign of a number/out/production/classes/
+/Topics/Declaring methods/Theory/out/
+/Topics/Declaring methods/Theory/out/production/classes/
+/Topics/Declaring methods/Vowel or not/out/
+/Topics/Declaring methods/Vowel or not/out/production/classes/
+/Topics/First glance at exceptions/Avoid division by zero/out/
+/Topics/First glance at exceptions/Avoid division by zero/out/production/classes/
+/Topics/First glance at exceptions/Behaviour of an exception/out/
+/Topics/First glance at exceptions/Behaviour of an exception/out/production/classes/
+/Topics/First glance at exceptions/Check the code/out/
+/Topics/First glance at exceptions/Check the code/out/production/classes/
+/Topics/First glance at exceptions/Error check/out/
+/Topics/First glance at exceptions/Error check/out/production/classes/
+/Topics/First glance at exceptions/Exceptions' situations/out/
+/Topics/First glance at exceptions/Exceptions' situations/out/production/classes/
+/Topics/First glance at exceptions/Handling division by zero error in a calculator program/out/
+/Topics/First glance at exceptions/Handling division by zero error in a calculator program/out/production/classes/
+/Topics/First glance at exceptions/Handling mathematical errors efficiently in a program/out/
+/Topics/First glance at exceptions/Handling mathematical errors efficiently in a program/out/production/classes/
+/Topics/First glance at exceptions/Regex check/out/
+/Topics/First glance at exceptions/Regex check/out/production/classes/
+/Topics/First glance at exceptions/Theory/out/
+/Topics/First glance at exceptions/Theory/out/production/classes/
+/Topics/First glance at exceptions/Time for exceptions/out/
+/Topics/First glance at exceptions/Time for exceptions/out/production/classes/
+/Topics/First glance at exceptions/Understanding error/out/
+/Topics/First glance at exceptions/Understanding error/out/production/classes/
+/Topics/First glance at exceptions/Valid integer/out/
+/Topics/First glance at exceptions/Valid integer/out/production/classes/
+/Topics/For-loop/Arithmetic average/out/
+/Topics/For-loop/Arithmetic average/out/production/classes/
+/Topics/For-loop/Fizz Buzz/out/
+/Topics/For-loop/Fizz Buzz/out/production/classes/
+/Topics/For-loop/From sum to product/out/
+/Topics/For-loop/From sum to product/out/production/classes/
+/Topics/For-loop/Grades/out/
+/Topics/For-loop/Grades/out/production/classes/
+/Topics/For-loop/Maximum element divisible by four/out/
+/Topics/For-loop/Maximum element divisible by four/out/production/classes/
+/Topics/For-loop/Multiplication Table/out/
+/Topics/For-loop/Multiplication Table/out/production/classes/
+/Topics/For-loop/Size of parts/out/
+/Topics/For-loop/Size of parts/out/production/classes/
+/Topics/For-loop/Statements/out/
+/Topics/For-loop/Statements/out/production/classes/
+/Topics/For-loop/Sum of first n odd numbers using loop/out/
+/Topics/For-loop/Sum of first n odd numbers using loop/out/production/classes/
+/Topics/For-loop/The count of numbers divisible by N/out/
+/Topics/For-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/For-loop/Theory/out/
+/Topics/For-loop/Theory/out/production/classes/
+/Topics/Functional decomposition/A quadratic equation/out/
+/Topics/Functional decomposition/A quadratic equation/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Decomposing switch cases in Java/out/
+/Topics/Functional decomposition/Decomposing switch cases in Java/out/production/classes/
+/Topics/Functional decomposition/Determining the number of days in a month/out/
+/Topics/Functional decomposition/Determining the number of days in a month/out/production/classes/
+/Topics/Functional decomposition/How to decompose correctly/out/
+/Topics/Functional decomposition/How to decompose correctly/out/production/classes/
+/Topics/Functional decomposition/Kate's math function/out/
+/Topics/Functional decomposition/Kate's math function/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Functional decomposition/The main tools of functional decomposition/out/
+/Topics/Functional decomposition/The main tools of functional decomposition/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Functional decomposition/Why decompose a program/out/
+/Topics/Functional decomposition/Why decompose a program/out/production/classes/
+/Topics/Method  main/Count the number of characters in a given string/out/
+/Topics/Method  main/Count the number of characters in a given string/out/production/classes/
+/Topics/Method  main/Fixing the main method/out/
+/Topics/Method  main/Fixing the main method/out/production/classes/
+/Topics/Method  main/Print  Hello, Java/out/
+/Topics/Method  main/Print  Hello, Java/out/production/classes/
+/Topics/Method  main/Theory/out/
+/Topics/Method  main/Theory/out/production/classes/
+/Topics/Multidimensional array/Create cube/out/
+/Topics/Multidimensional array/Create cube/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/Find the corners/out/
+/Topics/Multidimensional array/Find the corners/out/production/classes/
+/Topics/Multidimensional array/Indexing rules/out/
+/Topics/Multidimensional array/Indexing rules/out/production/classes/
+/Topics/Multidimensional array/Multidimensional array features/out/
+/Topics/Multidimensional array/Multidimensional array features/out/production/classes/
+/Topics/Multidimensional array/Practical applications/out/
+/Topics/Multidimensional array/Practical applications/out/production/classes/
+/Topics/Multidimensional array/Printing lengths of nested arrays/out/
+/Topics/Multidimensional array/Printing lengths of nested arrays/out/production/classes/
+/Topics/Multidimensional array/Sorting a square matrix display on the command-line/out/
+/Topics/Multidimensional array/Sorting a square matrix display on the command-line/out/production/classes/
+/Topics/Multidimensional array/Theory/out/
+/Topics/Multidimensional array/Theory/out/production/classes/
+/Topics/Multiple conditions  switch/A simple calculator/out/
+/Topics/Multiple conditions  switch/A simple calculator/out/production/classes/
+/Topics/Multiple conditions  switch/Converting numerical values into words/out/
+/Topics/Multiple conditions  switch/Converting numerical values into words/out/production/classes/
+/Topics/Multiple conditions  switch/Creating a digit to word conversion program/out/
+/Topics/Multiple conditions  switch/Creating a digit to word conversion program/out/production/classes/
+/Topics/Multiple conditions  switch/Creating a weekday converter for calendar app/out/
+/Topics/Multiple conditions  switch/Creating a weekday converter for calendar app/out/production/classes/
+/Topics/Multiple conditions  switch/Decoding traffic signal colors from input codes/out/
+/Topics/Multiple conditions  switch/Decoding traffic signal colors from input codes/out/production/classes/
+/Topics/Multiple conditions  switch/Direction/out/
+/Topics/Multiple conditions  switch/Direction/out/production/classes/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/
+/Topics/Multiple conditions  switch/Floor-space of the room/out/production/classes/
+/Topics/Multiple conditions  switch/From string to a number/out/
+/Topics/Multiple conditions  switch/From string to a number/out/production/classes/
+/Topics/Multiple conditions  switch/Harry Potter/out/
+/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/
+/Topics/Multiple conditions  switch/Removing breaks/out/
+/Topics/Multiple conditions  switch/Removing breaks/out/production/classes/
+/Topics/Multiple conditions  switch/Rewriting code using switch/out/
+/Topics/Multiple conditions  switch/Rewriting code using switch/out/production/classes/
+/Topics/Multiple conditions  switch/Shape/out/
+/Topics/Multiple conditions  switch/Shape/out/production/classes/
+/Topics/Multiple conditions  switch/Statements/out/
+/Topics/Multiple conditions  switch/Statements/out/production/classes/
+/Topics/Multiple conditions  switch/Test learners/out/
+/Topics/Multiple conditions  switch/Test learners/out/production/classes/
+/Topics/Multiple conditions  switch/Theory/out/
+/Topics/Multiple conditions  switch/Theory/out/production/classes/
+/Topics/NullPointerException/Avoid NPE/out/
+/Topics/NullPointerException/Avoid NPE/out/production/classes/
+/Topics/NullPointerException/Avoid NPE with strings/out/
+/Topics/NullPointerException/Avoid NPE with strings/out/production/classes/
+/Topics/NullPointerException/Code that throws an exception/out/
+/Topics/NullPointerException/Code that throws an exception/out/production/classes/
+/Topics/NullPointerException/Lines that may throw NPE/out/
+/Topics/NullPointerException/Lines that may throw NPE/out/production/classes/
+/Topics/NullPointerException/Return empty string when argument is null/out/
+/Topics/NullPointerException/Return empty string when argument is null/out/production/classes/
+/Topics/NullPointerException/Theory/out/
+/Topics/NullPointerException/Theory/out/production/classes/
+/Topics/NullPointerException/Unknown input/out/
+/Topics/NullPointerException/Unknown input/out/production/classes/
+/Topics/NullPointerException/When NPE cannot occur/out/
+/Topics/NullPointerException/When NPE cannot occur/out/production/classes/
+/Topics/NullPointerException/Where NPE might occur/out/
+/Topics/NullPointerException/Where NPE might occur/out/production/classes/
